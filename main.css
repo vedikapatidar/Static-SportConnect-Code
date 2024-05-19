@@ -1,0 +1,833 @@
+* {
+  box-sizing: border-box;
+}
+a{
+  text-decoration: none;
+}
+body {
+  font-size: 14px;
+}
+.v182_2 {
+  width: 100%;
+  height: 1267px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v182_3 {
+  width: 100%;
+  height: 84px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v182_4 {
+  width: 100%;
+  height: 48px;
+  background: rgba(1,0,14,1);
+  opacity: 1;
+  position: absolute;
+  top: 18px;
+  left: 2px;
+  overflow: hidden;
+}
+.v182_5 {
+  width: 88px;
+  height: 26px;
+  background: url("../images/v182_5.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 29px;
+  left: 348px;
+  overflow: hidden;
+}
+.v182_6 {
+  width: 88px;
+  height: 26px;
+  background: rgba(1,0,14,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  overflow: hidden;
+}
+.v182_7 {
+  width: 67px;
+  color: rgba(245,245,245,1);
+  outline: none;
+  position: absolute;
+  top: 3px;
+  left: 9px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_8 {
+  width: 88px;
+  height: 26px;
+  background: url("../images/v182_8.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 29px;
+  left: 454px;
+  overflow: hidden;
+}
+.v182_9 {
+  width: 88px;
+  height: 26px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  overflow: hidden;
+}
+.v182_10 {
+  width: 52px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 3px;
+  left: 8px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_11 {
+  width: 6px;
+  height: 5px;
+  background: url("../images/v182_11.png");
+  opacity: 1;
+  position: absolute;
+  top: 11px;
+  left: 67px;
+  border: 1px solid rgba(255,255,255,1);
+}
+.v182_12 {
+  width: 77px;
+  height: 26px;
+  background: url("../images/v182_12.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 28px;
+  left: 559px;
+  overflow: hidden;
+}
+.v182_13 {
+  width: 77px;
+  height: 26px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  overflow: hidden;
+}
+.v182_14 {
+  width: 42px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 3px;
+  left: 7px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_15 {
+  width: 5px;
+  height: 5px;
+  background: url("../images/v182_15.png");
+  opacity: 1;
+  position: absolute;
+  top: 11px;
+  left: 56px;
+  border: 1px solid rgba(255,255,255,1);
+}
+.v182_16 {
+  width: 88px;
+  height: 26px;
+  background: url("../images/v182_16.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 29px;
+  left: 660px;
+  overflow: hidden;
+}
+.v182_17 {
+  width: 88px;
+  height: 26px;
+  background: rgba(1,0,14,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  overflow: hidden;
+}
+.v182_18 {
+  width: 50px;
+  color: rgba(245,245,245,1);
+  position: absolute;
+  top: 3px;
+  left: 8px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_19 {
+  width: 5px;
+  height: 5px;
+  background: url("../images/v182_19.png");
+  opacity: 1;
+  position: absolute;
+  top: 11px;
+  left: 65px;
+  border: 1px solid rgba(255,255,255,1);
+}
+.v182_20 {
+  width: 71px;
+  height: 26px;
+  background: url("../images/v182_20.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 28px;
+  left: 1232px;
+  overflow: hidden;
+}
+.v182_21 {
+  width: 71px;
+  height: 26px;
+  background: rgba(1,0,14,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 13px;
+  border-top-right-radius: 13px;
+  border-bottom-left-radius: 13px;
+  border-bottom-right-radius: 13px;
+  overflow: hidden;
+}
+.v182_22 {
+  width: 45px;
+  color: rgba(245,245,245,1);
+  position: absolute;
+  top: 3px;
+  left: 8px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_23 {
+  width: 5px;
+  height: 5px;
+  background: url("../images/v182_23.png");
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  left: 55px;
+  border: 1px solid rgba(255,255,255,1);
+}
+.v182_24 {
+  width: 72px;
+  height: 26px;
+  background: url("../images/v182_24.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 29px;
+  left: 1326px;
+  overflow: hidden;
+}
+.v182_25 {
+  width: 72px;
+  height: 26px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 13px;
+  border-top-right-radius: 13px;
+  border-bottom-left-radius: 13px;
+  border-bottom-right-radius: 13px;
+  overflow: hidden;
+}
+.v182_26 {
+  width: 58px;
+  color: rgba(1,0,14,1);
+  position: absolute;
+  top: 3px;
+  left: 8px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_27 {
+  width: 317px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 12px;
+  left: 20px;
+  font-family: Alegreya Sans SC;
+  font-weight: ExtraBold Italic;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_28 {
+  width: 126px;
+  height: 16px;
+  background: url("../images/v182_28.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: 1312px;
+  overflow: hidden;
+}
+.v182_29 {
+  width: 46px;
+  color: rgba(221,219,219,1);
+  position: absolute;
+  top: 3px;
+  left: 0px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 10px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_30 {
+  width: 18px;
+  height: 16px;
+  background: url("../images/v182_30.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 49px;
+  overflow: hidden;
+}
+.v182_31 {
+  width: 18px;
+  height: 16px;
+  background: url("../images/v182_31.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 70px;
+  overflow: hidden;
+}
+.v182_32 {
+  width: 16px;
+  height: 16px;
+  background: url("../images/v182_32.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 91px;
+  overflow: hidden;
+}
+.v182_33 {
+  width: 16px;
+  height: 16px;
+  background: url("../images/v182_33.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 110px;
+  overflow: hidden;
+}
+.v182_67 {
+  width: 100%;
+  height: 751px;
+  background: url("../images/v182_67.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 83px;
+  left: 0px;
+  overflow: hidden;
+}
+.v182_35 {
+  width: 100%;
+  height: 750px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: 0px;
+  overflow: hidden;
+}
+.v182_36 {
+  width: 100%;
+  height: 751px;
+  background: url("../images/v182_36.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v182_37 {
+  width: 100%;
+  height: 750px;
+  background: rgba(0,0,0,0.30000001192092896);
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: 0px;
+  overflow: hidden;
+}
+.v182_38 {
+  width: 697px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 219px;
+  left: 166px;
+  font-family: Alegreya Sans SC;
+  font-weight: ExtraBold Italic;
+  font-size: 100px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_39 {
+  width: 237px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 197px;
+  left: 166px;
+  font-family: Alegreya Sans SC;
+  font-weight: ExtraBold Italic;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_40 {
+  width: 417px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 324px;
+  left: 295px;
+  font-family: Alegreya Sans SC;
+  font-weight: ExtraBold Italic;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_41 {
+  width: 607px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 485px;
+  left: 166px;
+  font-family: Alatsi;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_42 {
+  width: 100%;
+  height: 433px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 832px;
+  left: 0px;
+  overflow: hidden;
+}
+.v182_43 {
+  width: 181px;
+  height: 248px;
+  background: url("../images/v182_43.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 924px;
+  left: 115px;
+  overflow: hidden;
+}
+.v182_44 {
+  width: 181px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 227px;
+  left: 0px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_45 {
+  width: 168px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 176px;
+  left: 0px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_46 {
+  width: 156px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 125px;
+  left: 0px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_47 {
+  width: 72px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 74px;
+  left: 0px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_48 {
+  width: 93px;
+  color: rgba(255,255,255,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: Alatsi;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_49 {
+  width: 285px;
+  height: 248px;
+  background: url("../images/v182_49.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 924px;
+  left: 410px;
+  overflow: hidden;
+}
+.v182_50 {
+  width: 182px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 74px;
+  left: 0px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_51 {
+  width: 275px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 227px;
+  left: 0px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_52 {
+  width: 223px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 176px;
+  left: 0px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_53 {
+  width: 285px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 125px;
+  left: 0px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_54 {
+  width: 162px;
+  color: rgba(255,255,255,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: Alatsi;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_55 {
+  width: 153px;
+  height: 248px;
+  background: url("../images/v182_55.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 924px;
+  left: 783px;
+  overflow: hidden;
+}
+.v182_56 {
+  width: 134px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 74px;
+  left: 0px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_57 {
+  width: 57px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 227px;
+  left: 0px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_58 {
+  width: 153px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 176px;
+  left: 0px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_59 {
+  width: 97px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 125px;
+  left: 0px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_60 {
+  width: 145px;
+  color: rgba(255,255,255,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: Alatsi;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_61 {
+  width: 124px;
+  height: 193px;
+  background: url("../images/v182_61.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 924px;
+  left: 1137px;
+  overflow: hidden;
+}
+.v182_62 {
+  width: 87px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 70px;
+  left: 0px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_63 {
+  width: 101px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 172px;
+  left: 0px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_64 {
+  width: 113px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 121px;
+  left: 0px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v182_65 {
+  width: 124px;
+  color: rgba(255,255,255,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: Alatsi;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+
+/* Style the dropdown button */
+.dropbtn {
+  background-color: #3498db;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Style the dropdown button on hover */
+.dropbtn:hover, .dropbtn:focus {
+  background-color: #2980b9;
+}
+
+/* Style the dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Style the links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+  background-color: #2980b9;
+}
